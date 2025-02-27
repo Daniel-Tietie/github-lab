@@ -1,4 +1,7 @@
 This is lab 4 of CS 2263( working with Git)
 This is my second edit
 This is an edit made in the new feature branch
+<<<<<<< HEAD
 This is an edit made in VScode to create a conflict
+=======
+I have resolved the conflict
